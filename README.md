@@ -19,8 +19,6 @@ Il progetto comprende:
 
 ⚠️I tweet raccolti **non** sono presenti nella repo per motivi di privacy⚠️
 
-![](Images/Networks/finale.png)
-
 📒 Notebook raccolta dati:
 - [Raccolta tweet tramite Twitter Streaming API](RuStreaming.ipynb)
 - [Scraping delle informazioni dei concorrenti](ScrapWikiDrag.ipynb)
