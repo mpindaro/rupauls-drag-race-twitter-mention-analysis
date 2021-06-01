@@ -1,0 +1,62 @@
+{
+ "in_degree_centrality": [
+  "Symone",
+  "Gottmik",
+  "Kandy Muse",
+  "Denali Foxx",
+  "Ros\u00e9",
+  "LaLa Ri",
+  "Utica Queen",
+  "Olivia Lux",
+  "Tina Burner",
+  "Kahmora Hall-Iman",
+  "Joey Jay",
+  "Tamisha Iman",
+  "Elliott with 2 Ts"
+ ],
+ "pageRank": [
+  "Denali Foxx",
+  "Kandy Muse",
+  "Symone",
+  "Ros\u00e9",
+  "Gottmik",
+  "Utica Queen",
+  "LaLa Ri",
+  "Tina Burner",
+  "Olivia Lux",
+  "Joey Jay",
+  "Kahmora Hall-Iman",
+  "Tamisha Iman",
+  "Elliott with 2 Ts"
+ ],
+ "betweenness_centrality": [
+  "Gottmik",
+  "Kandy Muse",
+  "Denali Foxx",
+  "Ros\u00e9",
+  "Symone",
+  "LaLa Ri",
+  "Olivia Lux",
+  "Tina Burner",
+  "Kahmora Hall-Iman",
+  "Elliott with 2 Ts",
+  "Utica Queen",
+  "Joey Jay",
+  "Tamisha Iman"
+ ],
+ "harmonic_centrality": [
+  "Symone",
+  "Kandy Muse",
+  "Denali Foxx",
+  "Ros\u00e9",
+  "Gottmik",
+  "Utica Queen",
+  "LaLa Ri",
+  "Tina Burner",
+  "Olivia Lux",
+  "Kahmora Hall-Iman",
+  "Joey Jay",
+  "Tamisha Iman",
+  "Elliott with 2 Ts"
+ ]
+}

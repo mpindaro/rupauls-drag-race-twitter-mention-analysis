@@ -1,0 +1,2535 @@
+[
+ {
+  "data": {
+   "author_id": "172928678",
+   "id": "1380699670528266240",
+   "created_at": "2021-04-10T01:50:28.000Z",
+   "text": "@ddfuego @RuPaulsDragRace Stunning \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+   "entities": {
+    "mentions": [
+     {
+      "start": 0,
+      "end": 8,
+      "username": "ddfuego"
+     },
+     {
+      "start": 9,
+      "end": 25,
+      "username": "RuPaulsDragRace"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945605,
+    "tag": "@RuPaulsDragRace"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "230053633",
+   "id": "1380699673724395520",
+   "entities": {
+    "annotations": [
+     {
+      "start": 134,
+      "end": 138,
+      "probability": 0.4452,
+      "type": "Person",
+      "normalized_text": "Losin"
+     }
+    ],
+    "hashtags": [
+     {
+      "start": 16,
+      "end": 25,
+      "tag": "TeamRos\u00e9"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 14,
+      "username": "DdeDaniel5"
+     }
+    ]
+   },
+   "created_at": "2021-04-10T01:50:29.000Z",
+   "text": "RT @DdeDaniel5: #TeamRos\u00e9 iconico pensar que fue la \u00fanica del segundo grupo que logr\u00f3 llegar a la final haciendo justicia a la frase \u201cLosin\u2026"
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "36800361",
+   "id": "1380699675716583424",
+   "created_at": "2021-04-10T01:50:29.000Z",
+   "text": "@coochiecrown @PaigeTrocchia @RuPaulsDragRace That\u2019s the only thing you are good at \u201cbeing a fan\u201d that\u2019s a sad life",
+   "entities": {
+    "mentions": [
+     {
+      "start": 0,
+      "end": 13,
+      "username": "coochiecrown"
+     },
+     {
+      "start": 14,
+      "end": 28,
+      "username": "PaigeTrocchia"
+     },
+     {
+      "start": 29,
+      "end": 45,
+      "username": "RuPaulsDragRace"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945605,
+    "tag": "@RuPaulsDragRace"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "262407874",
+   "id": "1380699675842465794",
+   "entities": {
+    "annotations": [
+     {
+      "start": 36,
+      "end": 45,
+      "probability": 0.6418,
+      "type": "Other",
+      "normalized_text": "Little Mix"
+     }
+    ],
+    "hashtags": [
+     {
+      "start": 49,
+      "end": 58,
+      "tag": "DragRace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 59,
+      "end": 82,
+      "url": "https://t.co/q65vWTLKcE",
+      "expanded_url": "https://twitter.com/raulnavac/status/1380687030854762498/photo/1",
+      "display_url": "pic.twitter.com/q65vWTLKcE"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 13,
+      "username": "raulnavac"
+     }
+    ]
+   },
+   "created_at": "2021-04-10T01:50:29.000Z",
+   "text": "RT @raulnavac: Que raras se ven las Little Mix \ud83e\udd14 #DragRace https://t.co/q65vWTLKcE"
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "50120026",
+   "id": "1380699675976687618",
+   "created_at": "2021-04-10T01:50:29.000Z",
+   "text": "RT @morningmoon430: Literally our top 4 \ud83d\udc80 #DragRace https://t.co/XHVDIzLisx",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 42,
+      "end": 51,
+      "tag": "DragRace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 52,
+      "end": 75,
+      "url": "https://t.co/XHVDIzLisx",
+      "expanded_url": "https://twitter.com/morningmoon430/status/1380690502580903936/photo/1",
+      "display_url": "pic.twitter.com/XHVDIzLisx"
+     },
+     {
+      "start": 52,
+      "end": 75,
+      "url": "https://t.co/XHVDIzLisx",
+      "expanded_url": "https://twitter.com/morningmoon430/status/1380690502580903936/photo/1",
+      "display_url": "pic.twitter.com/XHVDIzLisx"
+     },
+     {
+      "start": 52,
+      "end": 75,
+      "url": "https://t.co/XHVDIzLisx",
+      "expanded_url": "https://twitter.com/morningmoon430/status/1380690502580903936/photo/1",
+      "display_url": "pic.twitter.com/XHVDIzLisx"
+     },
+     {
+      "start": 52,
+      "end": 75,
+      "url": "https://t.co/XHVDIzLisx",
+      "expanded_url": "https://twitter.com/morningmoon430/status/1380690502580903936/photo/1",
+      "display_url": "pic.twitter.com/XHVDIzLisx"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 18,
+      "username": "morningmoon430"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "1011526148",
+   "id": "1380699679009177601",
+   "created_at": "2021-04-10T01:50:30.000Z",
+   "text": "RT @shantayficagay: Est\u00e1 chegando aquele momento que a gente ama \ud83d\ude0d #DragRace https://t.co/pAtHpIq4no",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 67,
+      "end": 76,
+      "tag": "DragRace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 77,
+      "end": 100,
+      "url": "https://t.co/pAtHpIq4no",
+      "expanded_url": "https://twitter.com/shantayficagay/status/1380699358941700096/photo/1",
+      "display_url": "pic.twitter.com/pAtHpIq4no"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 18,
+      "username": "shantayficagay"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "754449004948324352",
+   "id": "1380699680875642880",
+   "created_at": "2021-04-10T01:50:30.000Z",
+   "text": "RT @shantayficagay: Est\u00e1 chegando aquele momento que a gente ama \ud83d\ude0d #DragRace https://t.co/pAtHpIq4no",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 67,
+      "end": 76,
+      "tag": "DragRace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 77,
+      "end": 100,
+      "url": "https://t.co/pAtHpIq4no",
+      "expanded_url": "https://twitter.com/shantayficagay/status/1380699358941700096/photo/1",
+      "display_url": "pic.twitter.com/pAtHpIq4no"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 18,
+      "username": "shantayficagay"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "1194145408047403008",
+   "id": "1380699684151304193",
+   "created_at": "2021-04-10T01:50:31.000Z",
+   "text": "RT @omgheylily: #TEAMROS\u00c9 ALL THE WAY. #DragRace https://t.co/hMmWA5UTmQ",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 16,
+      "end": 25,
+      "tag": "TEAMROS\u00c9"
+     },
+     {
+      "start": 39,
+      "end": 48,
+      "tag": "DragRace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 49,
+      "end": 72,
+      "url": "https://t.co/hMmWA5UTmQ",
+      "expanded_url": "https://twitter.com/omgheylily/status/1380696318230716416/photo/1",
+      "display_url": "pic.twitter.com/hMmWA5UTmQ"
+     },
+     {
+      "start": 49,
+      "end": 72,
+      "url": "https://t.co/hMmWA5UTmQ",
+      "expanded_url": "https://twitter.com/omgheylily/status/1380696318230716416/photo/1",
+      "display_url": "pic.twitter.com/hMmWA5UTmQ"
+     },
+     {
+      "start": 49,
+      "end": 72,
+      "url": "https://t.co/hMmWA5UTmQ",
+      "expanded_url": "https://twitter.com/omgheylily/status/1380696318230716416/photo/1",
+      "display_url": "pic.twitter.com/hMmWA5UTmQ"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 14,
+      "username": "omgheylily"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "4838984016",
+   "id": "1380699684684058630",
+   "created_at": "2021-04-10T01:50:31.000Z",
+   "text": "RT @RuPaulsDragRace: Category is: Drag Excellence! \ud83c\udf08\ud83d\udc60 \n \nWhose final four eleganza were you gagging over?! #DragRace https://t.co/8gmhkz16ZO",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 107,
+      "end": 116,
+      "tag": "DragRace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 117,
+      "end": 140,
+      "url": "https://t.co/8gmhkz16ZO",
+      "expanded_url": "https://twitter.com/RuPaulsDragRace/status/1380686718190358529/video/1",
+      "display_url": "pic.twitter.com/8gmhkz16ZO"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 19,
+      "username": "RuPaulsDragRace"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945605,
+    "tag": "@RuPaulsDragRace"
+   },
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "1109934851182997510",
+   "id": "1380699685002838017",
+   "entities": {
+    "annotations": [
+     {
+      "start": 36,
+      "end": 41,
+      "probability": 0.8385,
+      "type": "Person",
+      "normalized_text": "Symone"
+     }
+    ],
+    "hashtags": [
+     {
+      "start": 66,
+      "end": 75,
+      "tag": "DragRace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 76,
+      "end": 99,
+      "url": "https://t.co/yU07uFYqCj",
+      "expanded_url": "https://twitter.com/CallMeSirg/status/1380696688411693062/photo/1",
+      "display_url": "pic.twitter.com/yU07uFYqCj"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 14,
+      "username": "CallMeSirg"
+     }
+    ]
+   },
+   "created_at": "2021-04-10T01:50:31.000Z",
+   "text": "RT @CallMeSirg: So where can I find Symone\u2019s full solo lipsync ?\n\n#DragRace https://t.co/yU07uFYqCj"
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "460361029",
+   "id": "1380699686995173379",
+   "entities": {
+    "annotations": [
+     {
+      "start": 15,
+      "end": 20,
+      "probability": 0.9225,
+      "type": "Person",
+      "normalized_text": "Symone"
+     },
+     {
+      "start": 30,
+      "end": 44,
+      "probability": 0.9457,
+      "type": "Person",
+      "normalized_text": "Whitney Houston"
+     },
+     {
+      "start": 62,
+      "end": 76,
+      "probability": 0.9808,
+      "type": "Person",
+      "normalized_text": "Whitney Houston"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 13,
+      "username": "joeynolfi"
+     }
+    ]
+   },
+   "created_at": "2021-04-10T01:50:32.000Z",
+   "text": "RT @joeynolfi: Symone doing a Whitney Houston lip-sync with a Whitney Houston handkerchief... \n\nShe\u2019s not fucking around. She just gets all\u2026"
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "295703901",
+   "id": "1380699690115727360",
+   "created_at": "2021-04-10T01:50:32.000Z",
+   "text": "RT @shantayficagay: Est\u00e1 chegando aquele momento que a gente ama \ud83d\ude0d #DragRace https://t.co/pAtHpIq4no",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 67,
+      "end": 76,
+      "tag": "DragRace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 77,
+      "end": 100,
+      "url": "https://t.co/pAtHpIq4no",
+      "expanded_url": "https://twitter.com/shantayficagay/status/1380699358941700096/photo/1",
+      "display_url": "pic.twitter.com/pAtHpIq4no"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 18,
+      "username": "shantayficagay"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "770651921124302849",
+   "id": "1380699694393876483",
+   "entities": {
+    "annotations": [
+     {
+      "start": 15,
+      "end": 20,
+      "probability": 0.9225,
+      "type": "Person",
+      "normalized_text": "Symone"
+     },
+     {
+      "start": 30,
+      "end": 44,
+      "probability": 0.9457,
+      "type": "Person",
+      "normalized_text": "Whitney Houston"
+     },
+     {
+      "start": 62,
+      "end": 76,
+      "probability": 0.9808,
+      "type": "Person",
+      "normalized_text": "Whitney Houston"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 13,
+      "username": "joeynolfi"
+     }
+    ]
+   },
+   "created_at": "2021-04-10T01:50:33.000Z",
+   "text": "RT @joeynolfi: Symone doing a Whitney Houston lip-sync with a Whitney Houston handkerchief... \n\nShe\u2019s not fucking around. She just gets all\u2026"
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "1080232707173564416",
+   "id": "1380699695895416843",
+   "created_at": "2021-04-10T01:50:34.000Z",
+   "text": "RT @joeynolfi: Nurse: \u201cHold out your arm so I can give you the vaccine.\u201d\n\nMe: \n\n#DragRace https://t.co/8np7XR0kVo",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 80,
+      "end": 89,
+      "tag": "DragRace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 90,
+      "end": 113,
+      "url": "https://t.co/8np7XR0kVo",
+      "expanded_url": "https://twitter.com/joeynolfi/status/1380696656753127432/video/1",
+      "display_url": "pic.twitter.com/8np7XR0kVo"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 13,
+      "username": "joeynolfi"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "319310510",
+   "id": "1380699696688197632",
+   "created_at": "2021-04-10T01:50:34.000Z",
+   "text": "RT @shantayficagay: Est\u00e1 chegando aquele momento que a gente ama \ud83d\ude0d #DragRace https://t.co/pAtHpIq4no",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 67,
+      "end": 76,
+      "tag": "DragRace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 77,
+      "end": 100,
+      "url": "https://t.co/pAtHpIq4no",
+      "expanded_url": "https://twitter.com/shantayficagay/status/1380699358941700096/photo/1",
+      "display_url": "pic.twitter.com/pAtHpIq4no"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 18,
+      "username": "shantayficagay"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "1363618039",
+   "id": "1380699696910323714",
+   "created_at": "2021-04-10T01:50:34.000Z",
+   "text": "@RuPaulsDragRace @gottmik @TheKandyMuse @omgheyrose @the_symonee Why\u2019d that need a spoiler alert?",
+   "entities": {
+    "mentions": [
+     {
+      "start": 0,
+      "end": 16,
+      "username": "RuPaulsDragRace"
+     },
+     {
+      "start": 17,
+      "end": 25,
+      "username": "gottmik"
+     },
+     {
+      "start": 26,
+      "end": 39,
+      "username": "TheKandyMuse"
+     },
+     {
+      "start": 40,
+      "end": 51,
+      "username": "omgheyrose"
+     },
+     {
+      "start": 52,
+      "end": 64,
+      "username": "the_symonee"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945605,
+    "tag": "@RuPaulsDragRace"
+   },
+   {
+    "id": 1367951634177945613,
+    "tag": "@TheKandyMuse"
+   },
+   {
+    "id": 1367951634177945617,
+    "tag": "@omgheyrose"
+   },
+   {
+    "id": 1367951634177945619,
+    "tag": "@gottmik"
+   },
+   {
+    "id": 1367951634177945608,
+    "tag": "@the_symonee"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "1064205838632591361",
+   "id": "1380699697803841536",
+   "created_at": "2021-04-10T01:50:34.000Z",
+   "text": "RT @gigithorn_: esse ep vai ficar marcado como um dos meus preferidos com crtz #DragRace https://t.co/yiXtMiEokD",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 79,
+      "end": 88,
+      "tag": "DragRace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 89,
+      "end": 112,
+      "url": "https://t.co/yiXtMiEokD",
+      "expanded_url": "https://twitter.com/gigithorn_/status/1380699337584435203/photo/1",
+      "display_url": "pic.twitter.com/yiXtMiEokD"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 14,
+      "username": "gigithorn_"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "1108659176",
+   "id": "1380699698948796417",
+   "created_at": "2021-04-10T01:50:35.000Z",
+   "text": "RT @joeynolfi: Nurse: \u201cHold out your arm so I can give you the vaccine.\u201d\n\nMe: \n\n#DragRace https://t.co/8np7XR0kVo",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 80,
+      "end": 89,
+      "tag": "DragRace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 90,
+      "end": 113,
+      "url": "https://t.co/8np7XR0kVo",
+      "expanded_url": "https://twitter.com/joeynolfi/status/1380696656753127432/video/1",
+      "display_url": "pic.twitter.com/8np7XR0kVo"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 13,
+      "username": "joeynolfi"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "946441919718199297",
+   "id": "1380699699263463428",
+   "created_at": "2021-04-10T01:50:35.000Z",
+   "text": "@aquariaofficial @TheKandyMuse I THOUGHT THAT EAS YOU",
+   "entities": {
+    "mentions": [
+     {
+      "start": 0,
+      "end": 16,
+      "username": "aquariaofficial"
+     },
+     {
+      "start": 17,
+      "end": 30,
+      "username": "TheKandyMuse"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945613,
+    "tag": "@TheKandyMuse"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "991390793922437121",
+   "id": "1380699700073017344",
+   "created_at": "2021-04-10T01:50:35.000Z",
+   "text": "RT @ZachGilyard: Someone bring me a soda. #DragRace https://t.co/Y9NuYGwctz",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 42,
+      "end": 51,
+      "tag": "DragRace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 52,
+      "end": 75,
+      "url": "https://t.co/Y9NuYGwctz",
+      "expanded_url": "https://twitter.com/ZachGilyard/status/1380687095262498821/photo/1",
+      "display_url": "pic.twitter.com/Y9NuYGwctz"
+     },
+     {
+      "start": 52,
+      "end": 75,
+      "url": "https://t.co/Y9NuYGwctz",
+      "expanded_url": "https://twitter.com/ZachGilyard/status/1380687095262498821/photo/1",
+      "display_url": "pic.twitter.com/Y9NuYGwctz"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 15,
+      "username": "ZachGilyard"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "1079244936229249024",
+   "id": "1380699703537328129",
+   "entities": {
+    "annotations": [
+     {
+      "start": 15,
+      "end": 20,
+      "probability": 0.9225,
+      "type": "Person",
+      "normalized_text": "Symone"
+     },
+     {
+      "start": 30,
+      "end": 44,
+      "probability": 0.9457,
+      "type": "Person",
+      "normalized_text": "Whitney Houston"
+     },
+     {
+      "start": 62,
+      "end": 76,
+      "probability": 0.9808,
+      "type": "Person",
+      "normalized_text": "Whitney Houston"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 13,
+      "username": "joeynolfi"
+     }
+    ]
+   },
+   "created_at": "2021-04-10T01:50:36.000Z",
+   "text": "RT @joeynolfi: Symone doing a Whitney Houston lip-sync with a Whitney Houston handkerchief... \n\nShe\u2019s not fucking around. She just gets all\u2026"
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "1002264516384690176",
+   "id": "1380699704497950732",
+   "created_at": "2021-04-10T01:50:36.000Z",
+   "text": "n\u00e3o acha vem c\u00e1 que mam\u00e3e cuida https://t.co/MXwNndUJ8f",
+   "entities": {
+    "urls": [
+     {
+      "start": 32,
+      "end": 55,
+      "url": "https://t.co/MXwNndUJ8f",
+      "expanded_url": "https://twitter.com/RuPaulsDragRace/status/1380697710181945347",
+      "display_url": "twitter.com/RuPaulsDragRac\u2026"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945617,
+    "tag": "@omgheyrose"
+   },
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "99540015",
+   "id": "1380699705856888833",
+   "created_at": "2021-04-10T01:50:36.000Z",
+   "text": "RT @omgheyrose: wow print this headline on my tombstone why don\u2019tcha",
+   "entities": {
+    "mentions": [
+     {
+      "start": 3,
+      "end": 14,
+      "username": "omgheyrose"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945617,
+    "tag": "@omgheyrose"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "288612626",
+   "id": "1380699706259599360",
+   "created_at": "2021-04-10T01:50:36.000Z",
+   "text": "@gottmik is the representation this world needs... \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f#TeamGottMik #DragRace https://t.co/tUYzHbN0g4",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 56,
+      "end": 68,
+      "tag": "TeamGottMik"
+     },
+     {
+      "start": 69,
+      "end": 78,
+      "tag": "DragRace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 79,
+      "end": 102,
+      "url": "https://t.co/tUYzHbN0g4",
+      "expanded_url": "https://twitter.com/FierceTristan/status/1380699706259599360/photo/1",
+      "display_url": "pic.twitter.com/tUYzHbN0g4"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 0,
+      "end": 8,
+      "username": "gottmik"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945619,
+    "tag": "@gottmik"
+   },
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "1317837736397672448",
+   "id": "1380699711540170755",
+   "entities": {
+    "annotations": [
+     {
+      "start": 21,
+      "end": 25,
+      "probability": 0.9647,
+      "type": "Person",
+      "normalized_text": "Alexa"
+     },
+     {
+      "start": 34,
+      "end": 49,
+      "probability": 0.8314,
+      "type": "Other",
+      "normalized_text": "Nobody\u2019s Perfect"
+     },
+     {
+      "start": 55,
+      "end": 68,
+      "probability": 0.9951,
+      "type": "Person",
+      "normalized_text": "Hannah Montana"
+     }
+    ],
+    "hashtags": [
+     {
+      "start": 98,
+      "end": 107,
+      "tag": "DragRace"
+     },
+     {
+      "start": 108,
+      "end": 117,
+      "tag": "Untucked"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 19,
+      "username": "RuPaulsDragRace"
+     },
+     {
+      "start": 72,
+      "end": 85,
+      "username": "TheKandyMuse"
+     },
+     {
+      "start": 86,
+      "end": 97,
+      "username": "omgheyrose"
+     }
+    ]
+   },
+   "created_at": "2021-04-10T01:50:38.000Z",
+   "text": "RT @RuPaulsDragRace: Alexa, play \u201cNobody\u2019s Perfect\u201d by Hannah Montana \ud83c\udfb6 @TheKandyMuse @omgheyrose #DragRace #Untucked https://t.co/cEvt33mN\u2026"
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945613,
+    "tag": "@TheKandyMuse"
+   },
+   {
+    "id": 1367951634177945605,
+    "tag": "@RuPaulsDragRace"
+   },
+   {
+    "id": 1367951634177945617,
+    "tag": "@omgheyrose"
+   },
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "786374679489642496",
+   "id": "1380699713658314757",
+   "created_at": "2021-04-10T01:50:38.000Z",
+   "text": "RT @gottmik: #TEAMGOTTMIK \ud83d\ude2d\ud83d\udda4",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 13,
+      "end": 25,
+      "tag": "TEAMGOTTMIK"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 11,
+      "username": "gottmik"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945619,
+    "tag": "@gottmik"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "230530141",
+   "id": "1380699713746333696",
+   "created_at": "2021-04-10T01:50:38.000Z",
+   "text": "RT @RuPaulsDragRace: \u26a0\ufe0f Spoiler alert! \u26a0\ufe0f\n \n@gottmik, @TheKandyMuse, @omgheyrose, and @the_symonee just put it all on the line in four epic\u2026",
+   "entities": {
+    "mentions": [
+     {
+      "start": 3,
+      "end": 19,
+      "username": "RuPaulsDragRace"
+     },
+     {
+      "start": 44,
+      "end": 52,
+      "username": "gottmik"
+     },
+     {
+      "start": 54,
+      "end": 67,
+      "username": "TheKandyMuse"
+     },
+     {
+      "start": 69,
+      "end": 80,
+      "username": "omgheyrose"
+     },
+     {
+      "start": 86,
+      "end": 98,
+      "username": "the_symonee"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   },
+   {
+    "id": 1367951634177945605,
+    "tag": "@RuPaulsDragRace"
+   },
+   {
+    "id": 1367951634177945613,
+    "tag": "@TheKandyMuse"
+   },
+   {
+    "id": 1367951634177945617,
+    "tag": "@omgheyrose"
+   },
+   {
+    "id": 1367951634177945619,
+    "tag": "@gottmik"
+   },
+   {
+    "id": 1367951634177945608,
+    "tag": "@the_symonee"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "30417769",
+   "id": "1380699714455175172",
+   "created_at": "2021-04-10T01:50:38.000Z",
+   "text": "When @the_symonee pulled out that trapo it was a WRAP!",
+   "entities": {
+    "mentions": [
+     {
+      "start": 5,
+      "end": 17,
+      "username": "the_symonee"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945608,
+    "tag": "@the_symonee"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "795583428217319424",
+   "id": "1380699716074139649",
+   "created_at": "2021-04-10T01:50:39.000Z",
+   "text": "RT @jaidasbae: best top four \ud83e\udd7a\ud83d\udc9e #dragrace https://t.co/nSi5Dd4PQ0",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 32,
+      "end": 41,
+      "tag": "dragrace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 42,
+      "end": 65,
+      "url": "https://t.co/nSi5Dd4PQ0",
+      "expanded_url": "https://twitter.com/jaidasbae/status/1380679127980728323/photo/1",
+      "display_url": "pic.twitter.com/nSi5Dd4PQ0"
+     },
+     {
+      "start": 42,
+      "end": 65,
+      "url": "https://t.co/nSi5Dd4PQ0",
+      "expanded_url": "https://twitter.com/jaidasbae/status/1380679127980728323/photo/1",
+      "display_url": "pic.twitter.com/nSi5Dd4PQ0"
+     },
+     {
+      "start": 42,
+      "end": 65,
+      "url": "https://t.co/nSi5Dd4PQ0",
+      "expanded_url": "https://twitter.com/jaidasbae/status/1380679127980728323/photo/1",
+      "display_url": "pic.twitter.com/nSi5Dd4PQ0"
+     },
+     {
+      "start": 42,
+      "end": 65,
+      "url": "https://t.co/nSi5Dd4PQ0",
+      "expanded_url": "https://twitter.com/jaidasbae/status/1380679127980728323/photo/1",
+      "display_url": "pic.twitter.com/nSi5Dd4PQ0"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 13,
+      "username": "jaidasbae"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "1086796342435835905",
+   "id": "1380699717739274241",
+   "created_at": "2021-04-10T01:50:39.000Z",
+   "text": "RT @RuPaulsDragRace: Pass the tissues! \ud83d\ude2d \n \n@omgheyrose gets the sweetest sibling shoutout from her brother! \ud83d\udc98 #DragRace #Untucked https://\u2026",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 111,
+      "end": 120,
+      "tag": "DragRace"
+     },
+     {
+      "start": 121,
+      "end": 130,
+      "tag": "Untucked"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 19,
+      "username": "RuPaulsDragRace"
+     },
+     {
+      "start": 44,
+      "end": 55,
+      "username": "omgheyrose"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945605,
+    "tag": "@RuPaulsDragRace"
+   },
+   {
+    "id": 1367951634177945617,
+    "tag": "@omgheyrose"
+   },
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "1069665542473244672",
+   "id": "1380699718423089154",
+   "created_at": "2021-04-10T01:50:39.000Z",
+   "text": "RT @inlovelemon: I\u2019M NEVER GONNA STOP SCREAMING ABT THIS #DragRace https://t.co/D1NEkZB765",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 57,
+      "end": 66,
+      "tag": "DragRace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 67,
+      "end": 90,
+      "url": "https://t.co/D1NEkZB765",
+      "expanded_url": "https://twitter.com/inlovelemon/status/1380686381081563145/photo/1",
+      "display_url": "pic.twitter.com/D1NEkZB765"
+     },
+     {
+      "start": 67,
+      "end": 90,
+      "url": "https://t.co/D1NEkZB765",
+      "expanded_url": "https://twitter.com/inlovelemon/status/1380686381081563145/photo/1",
+      "display_url": "pic.twitter.com/D1NEkZB765"
+     },
+     {
+      "start": 67,
+      "end": 90,
+      "url": "https://t.co/D1NEkZB765",
+      "expanded_url": "https://twitter.com/inlovelemon/status/1380686381081563145/photo/1",
+      "display_url": "pic.twitter.com/D1NEkZB765"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 15,
+      "username": "inlovelemon"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "1162818430271184896",
+   "id": "1380699719337381889",
+   "created_at": "2021-04-10T01:50:39.000Z",
+   "text": "RT @morningmoon430: Literally our top 4 \ud83d\udc80 #DragRace https://t.co/XHVDIzLisx",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 42,
+      "end": 51,
+      "tag": "DragRace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 52,
+      "end": 75,
+      "url": "https://t.co/XHVDIzLisx",
+      "expanded_url": "https://twitter.com/morningmoon430/status/1380690502580903936/photo/1",
+      "display_url": "pic.twitter.com/XHVDIzLisx"
+     },
+     {
+      "start": 52,
+      "end": 75,
+      "url": "https://t.co/XHVDIzLisx",
+      "expanded_url": "https://twitter.com/morningmoon430/status/1380690502580903936/photo/1",
+      "display_url": "pic.twitter.com/XHVDIzLisx"
+     },
+     {
+      "start": 52,
+      "end": 75,
+      "url": "https://t.co/XHVDIzLisx",
+      "expanded_url": "https://twitter.com/morningmoon430/status/1380690502580903936/photo/1",
+      "display_url": "pic.twitter.com/XHVDIzLisx"
+     },
+     {
+      "start": 52,
+      "end": 75,
+      "url": "https://t.co/XHVDIzLisx",
+      "expanded_url": "https://twitter.com/morningmoon430/status/1380690502580903936/photo/1",
+      "display_url": "pic.twitter.com/XHVDIzLisx"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 18,
+      "username": "morningmoon430"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "1874321516",
+   "id": "1380699719643635716",
+   "created_at": "2021-04-10T01:50:39.000Z",
+   "text": "RT @gottmik: #TEAMGOTTMIK \ud83d\ude2d\ud83d\udda4",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 13,
+      "end": 25,
+      "tag": "TEAMGOTTMIK"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 11,
+      "username": "gottmik"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945619,
+    "tag": "@gottmik"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "55488418",
+   "id": "1380699719496728576",
+   "created_at": "2021-04-10T01:50:39.000Z",
+   "text": "RT @WorldOfWonder: Category is... Drag Excellence \ud83d\udc51\n\nServing her very best eleganza: @omgheyrose!\n\n#DragRace https://t.co/mrRIJ7PK9Q",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 99,
+      "end": 108,
+      "tag": "DragRace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 109,
+      "end": 132,
+      "url": "https://t.co/mrRIJ7PK9Q",
+      "expanded_url": "https://twitter.com/WorldOfWonder/status/1380691900034768896/video/1",
+      "display_url": "pic.twitter.com/mrRIJ7PK9Q"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 17,
+      "username": "WorldOfWonder"
+     },
+     {
+      "start": 85,
+      "end": 96,
+      "username": "omgheyrose"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945617,
+    "tag": "@omgheyrose"
+   },
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "296644355",
+   "id": "1380699720981438467",
+   "created_at": "2021-04-10T01:50:40.000Z",
+   "text": "@valltoowell YES ATAAA?? IM NOT SUREE HSHDHAHS kasi diba before may reunion muna bago finale HSGDHSHSHS\nhttps://t.co/xZONzrWeSg",
+   "entities": {
+    "urls": [
+     {
+      "start": 104,
+      "end": 127,
+      "url": "https://t.co/xZONzrWeSg",
+      "expanded_url": "https://twitter.com/RuPaulsDragRace/status/1380694173351837697?s=19",
+      "display_url": "twitter.com/RuPaulsDragRac\u2026"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 0,
+      "end": 12,
+      "username": "valltoowell"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "1377779682645512201",
+   "id": "1380699722122399746",
+   "created_at": "2021-04-10T01:50:40.000Z",
+   "text": "@gottmik @lamenosdraga Go for that crown my queen \ud83d\udc51 https://t.co/m4gCLZaL8G",
+   "entities": {
+    "urls": [
+     {
+      "start": 52,
+      "end": 75,
+      "url": "https://t.co/m4gCLZaL8G",
+      "expanded_url": "https://twitter.com/abelvilchiz/status/1380699722122399746/photo/1",
+      "display_url": "pic.twitter.com/m4gCLZaL8G"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 0,
+      "end": 8,
+      "username": "gottmik"
+     },
+     {
+      "start": 9,
+      "end": 22,
+      "username": "lamenosdraga"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945619,
+    "tag": "@gottmik"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "929181036243767297",
+   "id": "1380699724047605761",
+   "created_at": "2021-04-10T01:50:41.000Z",
+   "text": "RT @lucasisbasic: symone crown now #RuPaulsDragRace https://t.co/fGOWMA5jlN",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 35,
+      "end": 51,
+      "tag": "RuPaulsDragRace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 52,
+      "end": 75,
+      "url": "https://t.co/fGOWMA5jlN",
+      "expanded_url": "https://twitter.com/lucasisbasic/status/1380695217498681351/video/1",
+      "display_url": "pic.twitter.com/fGOWMA5jlN"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 16,
+      "username": "lucasisbasic"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945620,
+    "tag": "hashtagRu"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "1332168649",
+   "id": "1380699724412379137",
+   "created_at": "2021-04-10T01:50:41.000Z",
+   "text": "RT @morningmoon430: Literally our top 4 \ud83d\udc80 #DragRace https://t.co/XHVDIzLisx",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 42,
+      "end": 51,
+      "tag": "DragRace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 52,
+      "end": 75,
+      "url": "https://t.co/XHVDIzLisx",
+      "expanded_url": "https://twitter.com/morningmoon430/status/1380690502580903936/photo/1",
+      "display_url": "pic.twitter.com/XHVDIzLisx"
+     },
+     {
+      "start": 52,
+      "end": 75,
+      "url": "https://t.co/XHVDIzLisx",
+      "expanded_url": "https://twitter.com/morningmoon430/status/1380690502580903936/photo/1",
+      "display_url": "pic.twitter.com/XHVDIzLisx"
+     },
+     {
+      "start": 52,
+      "end": 75,
+      "url": "https://t.co/XHVDIzLisx",
+      "expanded_url": "https://twitter.com/morningmoon430/status/1380690502580903936/photo/1",
+      "display_url": "pic.twitter.com/XHVDIzLisx"
+     },
+     {
+      "start": 52,
+      "end": 75,
+      "url": "https://t.co/XHVDIzLisx",
+      "expanded_url": "https://twitter.com/morningmoon430/status/1380690502580903936/photo/1",
+      "display_url": "pic.twitter.com/XHVDIzLisx"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 18,
+      "username": "morningmoon430"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "1209636365639602179",
+   "id": "1380699726014730240",
+   "created_at": "2021-04-10T01:50:41.000Z",
+   "text": "@TheKandyMuse So that explains it.",
+   "entities": {
+    "mentions": [
+     {
+      "start": 0,
+      "end": 13,
+      "username": "TheKandyMuse"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945613,
+    "tag": "@TheKandyMuse"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "275759390",
+   "id": "1380699726589349890",
+   "created_at": "2021-04-10T01:50:41.000Z",
+   "text": "@WorldOfWonder @TheKandyMuse That shit is ugly! And she's in the top 4? Guess they needed drama or this was horrible season",
+   "entities": {
+    "mentions": [
+     {
+      "start": 0,
+      "end": 14,
+      "username": "WorldOfWonder"
+     },
+     {
+      "start": 15,
+      "end": 28,
+      "username": "TheKandyMuse"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945613,
+    "tag": "@TheKandyMuse"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "3315926555",
+   "id": "1380699727151386625",
+   "created_at": "2021-04-10T01:50:41.000Z",
+   "text": "RT @gottmik: #TEAMGOTTMIK \ud83d\ude2d\ud83d\udda4",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 13,
+      "end": 25,
+      "tag": "TEAMGOTTMIK"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 11,
+      "username": "gottmik"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945619,
+    "tag": "@gottmik"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "1078219648976519168",
+   "id": "1380699727461806090",
+   "created_at": "2021-04-10T01:50:41.000Z",
+   "text": "RT @RuPaulsDragRace: \u26a0\ufe0f Spoiler alert! \u26a0\ufe0f\n \n@gottmik, @TheKandyMuse, @omgheyrose, and @the_symonee just put it all on the line in four epic\u2026",
+   "entities": {
+    "mentions": [
+     {
+      "start": 3,
+      "end": 19,
+      "username": "RuPaulsDragRace"
+     },
+     {
+      "start": 44,
+      "end": 52,
+      "username": "gottmik"
+     },
+     {
+      "start": 54,
+      "end": 67,
+      "username": "TheKandyMuse"
+     },
+     {
+      "start": 69,
+      "end": 80,
+      "username": "omgheyrose"
+     },
+     {
+      "start": 86,
+      "end": 98,
+      "username": "the_symonee"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   },
+   {
+    "id": 1367951634177945605,
+    "tag": "@RuPaulsDragRace"
+   },
+   {
+    "id": 1367951634177945613,
+    "tag": "@TheKandyMuse"
+   },
+   {
+    "id": 1367951634177945617,
+    "tag": "@omgheyrose"
+   },
+   {
+    "id": 1367951634177945619,
+    "tag": "@gottmik"
+   },
+   {
+    "id": 1367951634177945608,
+    "tag": "@the_symonee"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "132686646",
+   "id": "1380699728321646593",
+   "entities": {
+    "annotations": [
+     {
+      "start": 33,
+      "end": 42,
+      "probability": 0.8153,
+      "type": "Person",
+      "normalized_text": "Jamal 4eva"
+     }
+    ],
+    "hashtags": [
+     {
+      "start": 46,
+      "end": 55,
+      "tag": "DragRace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 56,
+      "end": 79,
+      "url": "https://t.co/t5RY7MnPjA",
+      "expanded_url": "https://twitter.com/RuPaulsDragRace/status/1380673658281152513/video/1",
+      "display_url": "pic.twitter.com/t5RY7MnPjA"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 19,
+      "username": "RuPaulsDragRace"
+     },
+     {
+      "start": 22,
+      "end": 30,
+      "username": "gottmik"
+     }
+    ]
+   },
+   "created_at": "2021-04-10T01:50:42.000Z",
+   "text": "RT @RuPaulsDragRace: .@gottmik + Jamal 4eva \ud83d\udc98 #DragRace https://t.co/t5RY7MnPjA"
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945605,
+    "tag": "@RuPaulsDragRace"
+   },
+   {
+    "id": 1367951634177945619,
+    "tag": "@gottmik"
+   },
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "19611443",
+   "id": "1380699729416314882",
+   "created_at": "2021-04-10T01:50:42.000Z",
+   "text": "RT @joeynolfi: Nurse: \u201cHold out your arm so I can give you the vaccine.\u201d\n\nMe: \n\n#DragRace https://t.co/8np7XR0kVo",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 80,
+      "end": 89,
+      "tag": "DragRace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 90,
+      "end": 113,
+      "url": "https://t.co/8np7XR0kVo",
+      "expanded_url": "https://twitter.com/joeynolfi/status/1380696656753127432/video/1",
+      "display_url": "pic.twitter.com/8np7XR0kVo"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 13,
+      "username": "joeynolfi"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "1065040118971551744",
+   "id": "1380699728892080130",
+   "created_at": "2021-04-10T01:50:42.000Z",
+   "text": "QUE PERRA QUE PERRA, QUE PEERRRAAA MI AMIGA!!! @TheKandyMuse https://t.co/90qHh3kEka",
+   "entities": {
+    "urls": [
+     {
+      "start": 61,
+      "end": 84,
+      "url": "https://t.co/90qHh3kEka",
+      "expanded_url": "https://twitter.com/XunamiMuse/status/1380699728892080130/video/1",
+      "display_url": "pic.twitter.com/90qHh3kEka"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 47,
+      "end": 60,
+      "username": "TheKandyMuse"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945613,
+    "tag": "@TheKandyMuse"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "27277961",
+   "id": "1380699734831140868",
+   "created_at": "2021-04-10T01:50:43.000Z",
+   "text": "This is absolutely correct. \n#TeamSymone #TeamGottMik \n\n@the_symonee @gottmik #dragrace https://t.co/DlAZD5kBPi",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 29,
+      "end": 40,
+      "tag": "TeamSymone"
+     },
+     {
+      "start": 41,
+      "end": 53,
+      "tag": "TeamGottMik"
+     },
+     {
+      "start": 78,
+      "end": 87,
+      "tag": "dragrace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 88,
+      "end": 111,
+      "url": "https://t.co/DlAZD5kBPi",
+      "expanded_url": "https://twitter.com/seanrmj/status/1380699734831140868/photo/1",
+      "display_url": "pic.twitter.com/DlAZD5kBPi"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 56,
+      "end": 68,
+      "username": "the_symonee"
+     },
+     {
+      "start": 69,
+      "end": 77,
+      "username": "gottmik"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945608,
+    "tag": "@the_symonee"
+   },
+   {
+    "id": 1367951634177945619,
+    "tag": "@gottmik"
+   },
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "16422674",
+   "id": "1380699736596971521",
+   "created_at": "2021-04-10T01:50:44.000Z",
+   "text": "@the_symonee giiiiiirl that HAIR!!! that DRESS!!!! you looked absolutely gorge on the runway tonight \ud83d\udd25",
+   "entities": {
+    "mentions": [
+     {
+      "start": 0,
+      "end": 12,
+      "username": "the_symonee"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945608,
+    "tag": "@the_symonee"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "724920645612654592",
+   "id": "1380699737171574784",
+   "created_at": "2021-04-10T01:50:44.000Z",
+   "text": "RT @shantayficagay: Est\u00e1 chegando aquele momento que a gente ama \ud83d\ude0d #DragRace https://t.co/pAtHpIq4no",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 67,
+      "end": 76,
+      "tag": "DragRace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 77,
+      "end": 100,
+      "url": "https://t.co/pAtHpIq4no",
+      "expanded_url": "https://twitter.com/shantayficagay/status/1380699358941700096/photo/1",
+      "display_url": "pic.twitter.com/pAtHpIq4no"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 18,
+      "username": "shantayficagay"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "169177423",
+   "id": "1380699738199166983",
+   "created_at": "2021-04-10T01:50:44.000Z",
+   "text": "Estoy llorando, AYUDA.\n\nBtw, QU\u00c9 HERMOSO EL HERMANO DE ROS\u00c9, AL\u00d3. https://t.co/t0Ol36IdCx",
+   "entities": {
+    "urls": [
+     {
+      "start": 66,
+      "end": 89,
+      "url": "https://t.co/t0Ol36IdCx",
+      "expanded_url": "https://twitter.com/RuPaulsDragRace/status/1380697710181945347",
+      "display_url": "twitter.com/RuPaulsDragRac\u2026"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945617,
+    "tag": "@omgheyrose"
+   },
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "217227419",
+   "id": "1380699741059702784",
+   "created_at": "2021-04-10T01:50:45.000Z",
+   "text": "\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a https://t.co/QZ6B41AoAO",
+   "entities": {
+    "urls": [
+     {
+      "start": 5,
+      "end": 28,
+      "url": "https://t.co/QZ6B41AoAO",
+      "expanded_url": "https://twitter.com/rupaulsdragrace/status/1380697710181945347",
+      "display_url": "twitter.com/rupaulsdragrac\u2026"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945617,
+    "tag": "@omgheyrose"
+   },
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "876854663320043520",
+   "id": "1380699741990830082",
+   "entities": {
+    "annotations": [
+     {
+      "start": 76,
+      "end": 78,
+      "probability": 0.5421,
+      "type": "Other",
+      "normalized_text": "GOD"
+     }
+    ],
+    "hashtags": [
+     {
+      "start": 26,
+      "end": 37,
+      "tag": "teamsymone"
+     },
+     {
+      "start": 83,
+      "end": 92,
+      "tag": "DragRace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 93,
+      "end": 116,
+      "url": "https://t.co/xRb6JwLTwP",
+      "expanded_url": "https://twitter.com/mashyixing/status/1380696395607326720/photo/1",
+      "display_url": "pic.twitter.com/xRb6JwLTwP"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 14,
+      "username": "mashyixing"
+     }
+    ]
+   },
+   "created_at": "2021-04-10T01:50:45.000Z",
+   "text": "RT @mashyixing: THIS IS A #teamsymone'S ONLY EVENT HOW DOES IT FEEL TO STAN GOD???\n#DragRace https://t.co/xRb6JwLTwP"
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "3132430954",
+   "id": "1380699742091440129",
+   "created_at": "2021-04-10T01:50:45.000Z",
+   "text": "RT @Heather31508322: The ONLY person to win the crown \ud83d\udc51#TeamSymone #DragRace @the_symonee https://t.co/H57axISlEc",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 55,
+      "end": 66,
+      "tag": "TeamSymone"
+     },
+     {
+      "start": 67,
+      "end": 76,
+      "tag": "DragRace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 90,
+      "end": 113,
+      "url": "https://t.co/H57axISlEc",
+      "expanded_url": "https://twitter.com/Heather31508322/status/1380695664418566147/photo/1",
+      "display_url": "pic.twitter.com/H57axISlEc"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 19,
+      "username": "Heather31508322"
+     },
+     {
+      "start": 77,
+      "end": 89,
+      "username": "the_symonee"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945608,
+    "tag": "@the_symonee"
+   },
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "319425842",
+   "id": "1380699743471292418",
+   "created_at": "2021-04-10T01:50:45.000Z",
+   "text": "Haven\u2019t watched the ep yet but the TL is thirsting over   @omgheyrose \u2018s brother hard !!! lol",
+   "entities": {
+    "mentions": [
+     {
+      "start": 58,
+      "end": 69,
+      "username": "omgheyrose"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945617,
+    "tag": "@omgheyrose"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "814581475475501056",
+   "id": "1380699744381591552",
+   "entities": {
+    "annotations": [
+     {
+      "start": 25,
+      "end": 30,
+      "probability": 0.8904,
+      "type": "Person",
+      "normalized_text": "Symone"
+     },
+     {
+      "start": 65,
+      "end": 82,
+      "probability": 0.4434,
+      "type": "Other",
+      "normalized_text": "Oscar\u2019s Red Carpet"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 0,
+      "end": 16,
+      "username": "RuPaulsDragRace"
+     }
+    ]
+   },
+   "created_at": "2021-04-10T01:50:45.000Z",
+   "text": "@RuPaulsDragRace Ngl but Symone\u2019s look definitely belongs on the Oscar\u2019s Red Carpet. Like that look was fabulous. BEST OF LUCK TO ALL OF THEM."
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945605,
+    "tag": "@RuPaulsDragRace"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "2188338397",
+   "id": "1380699747003023364",
+   "created_at": "2021-04-10T01:50:46.000Z",
+   "text": "RT @gottmik: #TEAMGOTTMIK \ud83d\ude2d\ud83d\udda4",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 13,
+      "end": 25,
+      "tag": "TEAMGOTTMIK"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 11,
+      "username": "gottmik"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945619,
+    "tag": "@gottmik"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "1266934922637434885",
+   "id": "1380699747120517122",
+   "created_at": "2021-04-10T01:50:46.000Z",
+   "text": "@joshiewaffs @RuPaulsDragRace What?!!!! She looked amazing! Like freaking gorgeous!!",
+   "entities": {
+    "mentions": [
+     {
+      "start": 0,
+      "end": 12,
+      "username": "joshiewaffs"
+     },
+     {
+      "start": 13,
+      "end": 29,
+      "username": "RuPaulsDragRace"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945605,
+    "tag": "@RuPaulsDragRace"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "24287626",
+   "id": "1380699747200155651",
+   "created_at": "2021-04-10T01:50:46.000Z",
+   "text": "RT @joeynolfi: Nurse: \u201cHold out your arm so I can give you the vaccine.\u201d\n\nMe: \n\n#DragRace https://t.co/8np7XR0kVo",
+   "entities": {
+    "hashtags": [
+     {
+      "start": 80,
+      "end": 89,
+      "tag": "DragRace"
+     }
+    ],
+    "urls": [
+     {
+      "start": 90,
+      "end": 113,
+      "url": "https://t.co/8np7XR0kVo",
+      "expanded_url": "https://twitter.com/joeynolfi/status/1380696656753127432/video/1",
+      "display_url": "pic.twitter.com/8np7XR0kVo"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 13,
+      "username": "joeynolfi"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "1200242535324639232",
+   "id": "1380699747657388034",
+   "created_at": "2021-04-10T01:50:46.000Z",
+   "text": "@RuPaulsDragRace @gottmik @VH1 BA\ud83d\udc4fBY\ud83d\udc4fGOTT\ud83d\udc4fMIK https://t.co/CJSF6cykQ9",
+   "entities": {
+    "urls": [
+     {
+      "start": 46,
+      "end": 69,
+      "url": "https://t.co/CJSF6cykQ9",
+      "expanded_url": "https://twitter.com/strnger00/status/1380699747657388034/photo/1",
+      "display_url": "pic.twitter.com/CJSF6cykQ9"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 0,
+      "end": 16,
+      "username": "RuPaulsDragRace"
+     },
+     {
+      "start": 17,
+      "end": 25,
+      "username": "gottmik"
+     },
+     {
+      "start": 26,
+      "end": 30,
+      "username": "VH1"
+     }
+    ]
+   }
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945605,
+    "tag": "@RuPaulsDragRace"
+   },
+   {
+    "id": 1367951634177945619,
+    "tag": "@gottmik"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "2350680566",
+   "id": "1380699750715027463",
+   "entities": {
+    "annotations": [
+     {
+      "start": 15,
+      "end": 20,
+      "probability": 0.9225,
+      "type": "Person",
+      "normalized_text": "Symone"
+     },
+     {
+      "start": 30,
+      "end": 44,
+      "probability": 0.9457,
+      "type": "Person",
+      "normalized_text": "Whitney Houston"
+     },
+     {
+      "start": 62,
+      "end": 76,
+      "probability": 0.9808,
+      "type": "Person",
+      "normalized_text": "Whitney Houston"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 3,
+      "end": 13,
+      "username": "joeynolfi"
+     }
+    ]
+   },
+   "created_at": "2021-04-10T01:50:47.000Z",
+   "text": "RT @joeynolfi: Symone doing a Whitney Houston lip-sync with a Whitney Houston handkerchief... \n\nShe\u2019s not fucking around. She just gets all\u2026"
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945616,
+    "tag": "hashtag"
+   }
+  ]
+ },
+ {
+  "data": {
+   "author_id": "830125145541005314",
+   "id": "1380699751918804993",
+   "entities": {
+    "annotations": [
+     {
+      "start": 229,
+      "end": 233,
+      "probability": 0.5173,
+      "type": "Place",
+      "normalized_text": "Bronx"
+     }
+    ],
+    "hashtags": [
+     {
+      "start": 145,
+      "end": 154,
+      "tag": "teamrose"
+     },
+     {
+      "start": 161,
+      "end": 173,
+      "tag": "TeamGottMik"
+     },
+     {
+      "start": 178,
+      "end": 188,
+      "tag": "TeamKandy"
+     },
+     {
+      "start": 259,
+      "end": 270,
+      "tag": "dragrace13"
+     }
+    ],
+    "mentions": [
+     {
+      "start": 0,
+      "end": 16,
+      "username": "RuPaulsDragRace"
+     }
+    ]
+   },
+   "created_at": "2021-04-10T01:50:47.000Z",
+   "text": "@RuPaulsDragRace  I can\u2019t decide! I love them all! They each have a light that I need to keep seeing in this world. So hard to choose.  I was on #teamrose &amp; #TeamGottMik but #TeamKandy is hilarious and represents the boogie down Bronx so she grew on me.  #dragrace13"
+  },
+  "matching_rules": [
+   {
+    "id": 1367951634177945605,
+    "tag": "@RuPaulsDragRace"
+   }
+  ]
+ }
+]

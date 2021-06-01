@@ -1,0 +1,14 @@
+,in_degree_centrality,pageRank,betweenness_centrality,harmonic_centrality,real_rank
+0,Symone,Denali Foxx,Gottmik,Symone,Symone
+1,Gottmik,Kandy Muse,Kandy Muse,Kandy Muse,Kandy Muse
+2,Kandy Muse,Symone,Denali Foxx,Denali Foxx,Gottmik
+3,Denali Foxx,Rosé,Rosé,Rosé,Rosé
+4,Rosé,Gottmik,Symone,Gottmik,Olivia Lux
+5,LaLa Ri,Utica Queen,LaLa Ri,Utica Queen,Utica Queen
+6,Utica Queen,LaLa Ri,Olivia Lux,LaLa Ri,Tina Burner
+7,Olivia Lux,Tina Burner,Tina Burner,Tina Burner,Denali Foxx
+8,Tina Burner,Olivia Lux,Kahmora Hall-Iman,Olivia Lux,Elliott with 2 Ts
+9,Kahmora Hall-Iman,Joey Jay,Elliott with 2 Ts,Kahmora Hall-Iman,LaLa Ri
+10,Joey Jay,Kahmora Hall-Iman,Utica Queen,Joey Jay,Tamisha Iman
+11,Tamisha Iman,Tamisha Iman,Joey Jay,Tamisha Iman,Joey Jay
+12,Elliott with 2 Ts,Elliott with 2 Ts,Tamisha Iman,Elliott with 2 Ts,Kahmora Hall-Iman
