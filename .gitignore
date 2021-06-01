@@ -6,7 +6,10 @@ __pycache__/
 #file extra
 application_keys.json
 .ipynb_checkpoints/
-E16/rutweet16.json
+Data/.ipynb_checkpoints/
+Data/SingleEpisodes/
+toTable/
+Images/.ipynb_checkpoints/
 
 # C extensions
 *.so
