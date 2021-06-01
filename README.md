@@ -17,9 +17,9 @@ Il progetto comprende:
 - S**entiment Analysis sui tweet** che menzionano un concorrente, stimando così per ogni concorrente uno score di *likeability*.
 - **Identificazione di community di utenti outliers** tramite user clustering.
 
-![](Images/Networks/finale.png)
+⚠️I tweet raccolti **non** sono presenti nella repo per motivi di privacy⚠️
 
-[🖼️ Network Visualizations](Images/)
+![](Images/Networks/finale.png)
 
 📒 Notebook raccolta dati:
 - [Raccolta tweet tramite Twitter Streaming API](RuStreaming.ipynb)
